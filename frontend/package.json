@@ -2,6 +2,7 @@
   "name": "sasol-training-frontend",
   "version": "0.1.0",
   "private": true,
+  "homepage": "/",
   "dependencies": {
     "@chakra-ui/icons": "^2.0.19",
     "@chakra-ui/react": "^2.10.7",
